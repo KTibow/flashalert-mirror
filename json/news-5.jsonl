@@ -10,7 +10,7 @@
 {"report_id": "77922", "effective_date": "2025-12-02 18:23:45", "category": "Cities & Counties", "detail": "2 Hours Late.", "operating_code": "5", "org": "Teller County Government"}
 {"report_id": "77925", "effective_date": "2025-12-02 19:21:07", "category": "Organizations", "detail": "Will open at 8am &amp;amp; see appts as scheduled. If you need to change to tele send portal message.", "operating_code": "0", "org": "Pediatric &amp; Family Psychiatry"}
 {"report_id": "77926", "effective_date": "2025-12-02 19:36:28", "category": "School Districts", "detail": "2 Hours Late, No AM preschool.", "operating_code": "5", "org": "Woodland Park Re-2"}
-{"report_id": "77927", "effective_date": "2025-12-02 19:38:32", "category": "Private & Charter Schools", "detail": "2 Hours Late, No AM preschool.", "operating_code": "5", "org": "Pikes Peak School of Exped. Learning"}
+{"report_id": "77927", "effective_date": "2025-12-03 04:04:10", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Pikes Peak School of Exped. Learning"}
 {"report_id": "77928", "effective_date": "2025-12-02 21:46:02", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Pikes Peak Christian School"}
 {"report_id": "77929", "effective_date": "2025-12-02 20:04:51", "category": "Private & Charter Schools", "detail": "2 Hours Late.", "operating_code": "5", "org": "Grand Peak Academy"}
 {"report_id": "77931", "effective_date": "2025-12-02 19:49:11", "category": "Private & Charter Schools", "detail": "All campuses closed. All BLA Campuses(K-12) are CLOSED 12/3.  K-12 will have a snow day.", "operating_code": "1", "org": "Banning Lewis Academy"}
@@ -33,3 +33,9 @@
 {"report_id": "77965", "effective_date": "2025-12-02 22:21:57", "category": "Cities & Counties", "detail": "Offices will open at 10:00 am for non-essential staff", "operating_code": "0", "org": "Colorado Springs Housing Authority"}
 {"report_id": "77966", "effective_date": "2025-12-02 22:49:52", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "PPUW Family Success Center"}
 {"report_id": "77970", "effective_date": "2025-12-03 03:12:20", "category": "Churches/Synagogues", "detail": "Closed, No AM kindergarten and preschool.", "operating_code": "1", "org": "First Presbyterian Church"}
+{"report_id": "77971", "effective_date": "2025-12-03 04:26:04", "category": "Cities & Counties", "detail": "Closed but operating remotely. Parties should appear remotely at scheduled time via WebEx. www.tinyurl.com/CO4JDTeller for info.", "operating_code": "1", "org": "Teller Co. Combined Courts"}
+{"report_id": "77972", "effective_date": "2025-12-03 04:37:26", "category": "Private & Charter Schools", "detail": "Closed with an Online Instruction Day.", "operating_code": "0", "org": "Colorado Springs Christian Schools"}
+{"report_id": "77973", "effective_date": "2025-12-03 04:46:00", "category": "Colleges & Universities", "detail": "UCCS is on delay. Campus offices, classes and activities held prior to 10 AM are delayed. Normal Campus operations will resume at 10 AM. Essential services personnel need to report to work.", "operating_code": "0", "org": "University of Colorado Colorado Springs"}
+{"report_id": "77974", "effective_date": "2025-12-03 04:46:57", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Canon City RE-1"}
+{"report_id": "77975", "effective_date": "2025-12-03 04:48:28", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "The Colorado Springs School"}
+{"report_id": "77976", "effective_date": "2025-12-03 04:53:52", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Fremont-Florence RE-2"}
