@@ -29,7 +29,7 @@
 {"report_id": "77956", "effective_date": "2025-12-02 21:40:29", "category": "Churches/Synagogues", "detail": "Opening at 10 am.", "operating_code": "3", "org": "Church For All Nations"}
 {"report_id": "77957", "effective_date": "2025-12-02 21:50:00", "category": "Cities & Counties", "detail": "Closed.", "operating_code": "1", "org": "Fountain Housing Authority"}
 {"report_id": "77961", "effective_date": "2025-12-02 21:51:51", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Colorado International Language Academy"}
-{"report_id": "77962", "effective_date": "2025-12-02 21:59:47", "category": "Businesses", "detail": "2 Hours Late, AM buses on snow routes. Center-based services on  2-hour delay, transportation 2 2-hour delay", "operating_code": "5", "org": "Colorado Behavior and Learning Group"}
+{"report_id": "77962", "effective_date": "2025-12-03 06:54:37", "category": "Businesses", "detail": "Closed, AM buses on snow routes. Center-based services CLOSED", "operating_code": "1", "org": "Colorado Behavior and Learning Group"}
 {"report_id": "77964", "effective_date": "2025-12-02 22:20:22", "category": "School Districts", "detail": "2 Hours Late.", "operating_code": "5", "org": "Miami-Yoder Sch. Dist. JT-60"}
 {"report_id": "77965", "effective_date": "2025-12-02 22:21:57", "category": "Cities & Counties", "detail": "Offices will open at 10:00 am for non-essential staff", "operating_code": "0", "org": "Colorado Springs Housing Authority"}
 {"report_id": "77966", "effective_date": "2025-12-02 22:49:52", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "PPUW Family Success Center"}
@@ -74,3 +74,9 @@
 {"report_id": "78010", "effective_date": "2025-12-03 06:21:08", "category": "School Districts", "detail": "2 Hours Late.", "operating_code": "5", "org": "Pikes Peak BOCES East (Calhan)"}
 {"report_id": "78011", "effective_date": "2025-12-03 06:22:24", "category": "School Districts", "detail": "Closed, No preschool.", "operating_code": "1", "org": "Manitou Springs SD 14"}
 {"report_id": "78012", "effective_date": "2025-12-03 06:25:27", "category": "Private & Charter Schools", "detail": "Closed. St. Paul Catholic School is closed today, Dec. 3.", "operating_code": "1", "org": "St. Paul Catholic School"}
+{"report_id": "78013", "effective_date": "2025-12-03 06:29:32", "category": "Churches/Synagogues", "detail": "2 Hours Late. Remote work till 10 am", "operating_code": "5", "org": "Every Home for Christ"}
+{"report_id": "78014", "effective_date": "2025-12-03 06:33:46", "category": "School Districts", "detail": "2 Hours Late, No AM preschool.", "operating_code": "5", "org": "Big Sandy SD"}
+{"report_id": "78015", "effective_date": "2025-12-03 06:39:59", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Hanover 28"}
+{"report_id": "78016", "effective_date": "2025-12-03 06:35:40", "category": "Organizations", "detail": "Closed. Pueblo Zoo closed December 3, 2025, due to inclement weather.", "operating_code": "1", "org": "Pueblo Zoo"}
+{"report_id": "78017", "effective_date": "2025-12-03 06:42:13", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "The Salon Professional Academy"}
+{"report_id": "78019", "effective_date": "2025-12-03 06:53:45", "category": "Private & Charter Schools", "detail": "Closed. 12/3/2025", "operating_code": "1", "org": "Villa Bella Expeditionary"}
