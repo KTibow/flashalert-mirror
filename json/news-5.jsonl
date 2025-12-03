@@ -80,6 +80,8 @@
 {"report_id": "78028", "effective_date": "2025-12-03 08:21:20", "category": "Churches/Synagogues", "detail": "Closed.", "operating_code": "1", "org": "Unity Spiritual Center in the Rockies"}
 {"report_id": "78029", "effective_date": "2025-12-03 08:30:27", "category": "Churches/Synagogues", "detail": "Closed.", "operating_code": "1", "org": "Grace Lutheran Church Colorado Springs"}
 {"report_id": "78032", "effective_date": "2025-12-03 08:47:30", "category": "Businesses", "detail": "Closed. All telehealth services remain as scheduled", "operating_code": "1", "org": "A Turning Point of Colorado Springs"}
+{"report_id": "78033", "effective_date": "2025-12-03 12:05:13", "category": "Medical", "detail": "Closed. - All Services are TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - South Office"}
+{"report_id": "78034", "effective_date": "2025-12-03 12:01:30", "category": "Medical", "detail": "Closed. - All Services are TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - North Office"}
 {"report_id": "78036", "effective_date": "2025-12-03 10:57:44", "category": "Private & Charter Schools", "detail": "Early release, all aft/eve activities canceled. Closing at 3 p.m.", "operating_code": "2", "org": "Hope Montessori Academy - Chuckwagon"}
 {"report_id": "78037", "effective_date": "2025-12-03 10:57:59", "category": "Private & Charter Schools", "detail": "Early release. Closing at 3PM", "operating_code": "2", "org": "Hope Montessori Academy - Stetson Hills"}
 {"report_id": "78038", "effective_date": "2025-12-03 11:02:46", "category": "Private & Charter Schools", "detail": "Early release. Closing by 3pm.", "operating_code": "2", "org": "Hope Montessori Academy - Falcon"}
@@ -92,3 +94,5 @@
 {"report_id": "78046", "effective_date": "2025-12-03 11:36:57", "category": "Churches/Synagogues", "detail": "Evening activities canceled. AWANA is canceled today due to inclement weather.", "operating_code": "2", "org": "Redemption Hill Church"}
 {"report_id": "78047", "effective_date": "2025-12-03 11:40:33", "category": "Military Bases", "detail": "2-hour delay. Installation Road Condition: Yellow.", "operating_code": "0", "org": "US Air Force Academy"}
 {"report_id": "78048", "effective_date": "2025-12-03 11:58:13", "category": "Churches/Synagogues", "detail": "Evening activities canceled.", "operating_code": "2", "org": "Vista Grande Baptist Church"}
+{"report_id": "78049", "effective_date": "2025-12-03 12:12:26", "category": "Private & Charter Schools", "detail": "Early release. Closing at 4pm", "operating_code": "2", "org": "Little Sprouts Learning Center"}
+{"report_id": "78050", "effective_date": "2025-12-03 12:33:12", "category": "Organizations", "detail": "Closed. Closing early at 1 pm.", "operating_code": "1", "org": "The Arc Pikes Peak Region"}
