@@ -7,7 +7,6 @@
 {"news_id": "185360", "effective_date": "2025-12-03 04:49:56", "category": "Private & Charter Schools", "headline": "School closure preschool - eighth grade", "detail": "&lt;p&gt;&lt;span class=\"marker\"&gt;&lt;span style=\"font-family:arial,helvetica,sans-serif\"&gt;&lt;span style=\"font-size:12px\"&gt;St. Therese school closure&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;", "org": "St. Therese - Pueblo"}
 {"report_id": "77918", "effective_date": "2025-12-02 13:51:53", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Eastlake High School"}
 {"report_id": "77920", "effective_date": "2025-12-02 15:51:02", "category": "Medical", "detail": "Closed but operating remotely. All Pueblo, Trinidad and Walsenburg offices will be moved to remote status only, the offices will be closed.", "operating_code": "1", "org": "Health Solutions"}
-{"report_id": "77921", "effective_date": "2025-12-02 17:11:04", "category": "Military Bases", "detail": "will have a 2-hour delay; Soldiers report at 9 a.m. and civilian employees no later than 2-hours past normal report time.", "operating_code": "0", "org": "Fort Carson"}
 {"report_id": "77922", "effective_date": "2025-12-03 07:37:15", "category": "Cities & Counties", "detail": "All offices closed.", "operating_code": "1", "org": "Teller County Government"}
 {"report_id": "77925", "effective_date": "2025-12-02 19:21:07", "category": "Organizations", "detail": "Will open at 8am &amp;amp; see appts as scheduled. If you need to change to tele send portal message.", "operating_code": "0", "org": "Pediatric &amp; Family Psychiatry"}
 {"report_id": "77926", "effective_date": "2025-12-03 05:32:10", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Woodland Park Re-2"}
@@ -16,15 +15,12 @@
 {"report_id": "77929", "effective_date": "2025-12-03 05:51:10", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Grand Peak Academy"}
 {"report_id": "77931", "effective_date": "2025-12-02 19:49:11", "category": "Private & Charter Schools", "detail": "All campuses closed. All BLA Campuses(K-12) are CLOSED 12/3.  K-12 will have a snow day.", "operating_code": "1", "org": "Banning Lewis Academy"}
 {"report_id": "77934", "effective_date": "2025-12-03 00:52:08", "category": "Private & Charter Schools", "detail": "Closed. - Asynchronous Day", "operating_code": "1", "org": "St. Mary's High School"}
-{"report_id": "77935", "effective_date": "2025-12-03 07:16:49", "category": "Military Bases", "detail": "PSFB/CMSFS/SSFB: Mission essential personnel only", "operating_code": "0", "org": "Peterson Space Force Base"}
 {"report_id": "77940", "effective_date": "2025-12-02 20:58:52", "category": "Medical", "detail": "Closed but operating remotely. All offices will be closed, all appontments will be remote on 12/3", "operating_code": "1", "org": "Purple Mountain Recovery"}
 {"report_id": "77942", "effective_date": "2025-12-03 07:09:41", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Liberty Tree Academy"}
-{"report_id": "77948", "effective_date": "2025-12-02 21:18:41", "category": "Private & Charter Schools", "detail": "", "operating_code": "1", "org": "Atlas Schools"}
 {"report_id": "77950", "effective_date": "2025-12-02 21:22:50", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "James Madison Charter Acad."}
 {"report_id": "77952", "effective_date": "2025-12-02 21:28:33", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Colorado Springs SD 11"}
 {"report_id": "77953", "effective_date": "2025-12-03 06:24:30", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Cheyenne Mountain Dist. 12"}
 {"report_id": "77954", "effective_date": "2025-12-02 21:40:40", "category": "Businesses", "detail": "All offices closed.", "operating_code": "1", "org": "Fountain Valley Senior Center"}
-{"report_id": "77955", "effective_date": "2025-12-02 22:10:35", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Pikes Peak BOCES and SOE"}
 {"report_id": "77956", "effective_date": "2025-12-03 09:24:28", "category": "Churches/Synagogues", "detail": "All campuses closed.", "operating_code": "1", "org": "Church For All Nations"}
 {"report_id": "77957", "effective_date": "2025-12-02 21:50:00", "category": "Cities & Counties", "detail": "Closed.", "operating_code": "1", "org": "Fountain Housing Authority"}
 {"report_id": "77961", "effective_date": "2025-12-02 21:51:51", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Colorado International Language Academy"}
@@ -51,11 +47,9 @@
 {"report_id": "77991", "effective_date": "2025-12-03 07:12:58", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Elbert School District 200"}
 {"report_id": "77994", "effective_date": "2025-12-03 05:34:52", "category": "Colleges & Universities", "detail": "All campuses closed.", "operating_code": "1", "org": "Pikes Peak State College"}
 {"report_id": "77995", "effective_date": "2025-12-03 08:32:07", "category": "Churches/Synagogues", "detail": "Closed. No Elevate/evening activities", "operating_code": "1", "org": "Mountain Springs Church"}
-{"report_id": "77996", "effective_date": "2025-12-03 05:36:30", "category": "Organizations", "detail": "Remote Work Day Essential Onsite Staff: Report as normal", "operating_code": "0", "org": "Focus on the Family"}
 {"report_id": "77997", "effective_date": "2025-12-03 05:36:33", "category": "Private & Charter Schools", "detail": "Classes begin at 9:45am, buses will run one hour later", "operating_code": "0", "org": "Fountain Valley School"}
 {"report_id": "77998", "effective_date": "2025-12-03 05:38:50", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Pueblo School for Arts &amp; Sciences"}
 {"report_id": "77999", "effective_date": "2025-12-03 07:02:36", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Peyton 23JT"}
-{"report_id": "78001", "effective_date": "2025-12-03 05:47:44", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Huerfano Re-1"}
 {"report_id": "78002", "effective_date": "2025-12-03 05:49:51", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Colorado Springs Charter Academy"}
 {"report_id": "78003", "effective_date": "2025-12-03 05:51:17", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Lewis-Palmer Dist. 38"}
 {"report_id": "78004", "effective_date": "2025-12-03 08:17:39", "category": "Churches/Synagogues", "detail": "Closed. No First Wednesday Service tonight. Remote work where possible.", "operating_code": "1", "org": "New Life Church"}
@@ -78,7 +72,6 @@
 {"report_id": "78024", "effective_date": "2025-12-03 07:57:18", "category": "Churches/Synagogues", "detail": "Closed. - No youth group tonight", "operating_code": "1", "org": "Communion of Saints Church"}
 {"report_id": "78027", "effective_date": "2025-12-03 08:16:03", "category": "Churches/Synagogues", "detail": "Closed but operating remotely.", "operating_code": "1", "org": "First Baptist Church of Colorado Springs"}
 {"report_id": "78028", "effective_date": "2025-12-03 08:21:20", "category": "Churches/Synagogues", "detail": "Closed.", "operating_code": "1", "org": "Unity Spiritual Center in the Rockies"}
-{"report_id": "78029", "effective_date": "2025-12-03 08:30:27", "category": "Churches/Synagogues", "detail": "Closed.", "operating_code": "1", "org": "Grace Lutheran Church Colorado Springs"}
 {"report_id": "78032", "effective_date": "2025-12-03 08:47:30", "category": "Businesses", "detail": "Closed. All telehealth services remain as scheduled", "operating_code": "1", "org": "A Turning Point of Colorado Springs"}
 {"report_id": "78033", "effective_date": "2025-12-03 12:05:13", "category": "Medical", "detail": "Closed. - All Services are TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - South Office"}
 {"report_id": "78034", "effective_date": "2025-12-03 12:01:30", "category": "Medical", "detail": "Closed. - All Services are TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - North Office"}
@@ -96,3 +89,5 @@
 {"report_id": "78048", "effective_date": "2025-12-03 11:58:13", "category": "Churches/Synagogues", "detail": "Evening activities canceled.", "operating_code": "2", "org": "Vista Grande Baptist Church"}
 {"report_id": "78049", "effective_date": "2025-12-03 12:12:26", "category": "Private & Charter Schools", "detail": "Early release. Closing at 4pm", "operating_code": "2", "org": "Little Sprouts Learning Center"}
 {"report_id": "78050", "effective_date": "2025-12-03 12:33:12", "category": "Organizations", "detail": "Closed. Closing early at 1 pm.", "operating_code": "1", "org": "The Arc Pikes Peak Region"}
+{"report_id": "78051", "effective_date": "2025-12-03 13:16:46", "category": "School Districts", "detail": "2 Hours Late. (Effective tomorrow - Thu Dec 4th)", "operating_code": "5", "org": "Cripple Creek-Victor"}
+{"report_id": "78052", "effective_date": "2025-12-03 13:54:52", "category": "Colleges & Universities", "detail": "Closing at 5 pm. Night Classes Attend Virtually.", "operating_code": "0", "org": "IntelliTec College - Pueblo"}
