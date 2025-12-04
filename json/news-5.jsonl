@@ -36,7 +36,7 @@
 {"report_id": "78075", "effective_date": "2025-12-04 06:35:06", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Fountain-Ft. Carson Dist. 8"}
 {"report_id": "78076", "effective_date": "2025-12-04 08:09:39", "category": "Head Start Programs", "detail": "Closed, No AM preschool.", "operating_code": "1", "org": "CPCD Head Start"}
 {"report_id": "78077", "effective_date": "2025-12-03 17:47:06", "category": "Private & Charter Schools", "detail": "2 Hours Late.", "operating_code": "5", "org": "St. Gabriel Classical Academy"}
-{"report_id": "78078", "effective_date": "2025-12-03 17:47:10", "category": "School Districts", "detail": "2 Hours Late.", "operating_code": "5", "org": "Colorado School for the Deaf and the Blind"}
+{"report_id": "78078", "effective_date": "2025-12-04 08:59:02", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Colorado School for the Deaf and the Blind"}
 {"report_id": "78079", "effective_date": "2025-12-04 08:09:21", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "CIVA Charter High School"}
 {"report_id": "78080", "effective_date": "2025-12-03 20:01:18", "category": "School Districts", "detail": "2 Hours Late. MOUNTAIN SCHOOLS CLOSED TOMORROW DECEMBER 4, all other schools will be delayed two hours.", "operating_code": "5", "org": "Pueblo D70"}
 {"report_id": "78082", "effective_date": "2025-12-03 17:50:47", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Pueblo D60"}
@@ -58,7 +58,6 @@
 {"report_id": "78099", "effective_date": "2025-12-03 18:23:13", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "The McClelland School"}
 {"report_id": "78100", "effective_date": "2025-12-03 18:28:22", "category": "Private & Charter Schools", "detail": "2 Hours Late. No morning Mass. Drop-off begins at 9:15.", "operating_code": "5", "org": "Corpus Christi Catholic Academy"}
 {"report_id": "78102", "effective_date": "2025-12-04 06:54:52", "category": "Private & Charter Schools", "detail": "Closed. Atlas is now closed.", "operating_code": "1", "org": "Atlas Schools"}
-{"report_id": "78103", "effective_date": "2025-12-03 18:38:03", "category": "Private & Charter Schools", "detail": "Closed. Preschool - 8th grade", "operating_code": "1", "org": "St. Therese - Pueblo"}
 {"report_id": "78104", "effective_date": "2025-12-03 19:02:32", "category": "Private & Charter Schools", "detail": "2 Hours Late. 2 Hour delay for Thursday 12/4/25.", "operating_code": "5", "org": "Lake George Charter School"}
 {"report_id": "78105", "effective_date": "2025-12-03 18:38:32", "category": "Head Start Programs", "detail": "Opening at 10 am. we will be open for in center learning,  parents will need to transport children to our center at 10am, and we will transport them home at the regular scheduled times", "operating_code": "3", "org": "Fremont Co. Head Start"}
 {"report_id": "78106", "effective_date": "2025-12-03 18:45:50", "category": "Private & Charter Schools", "detail": "Closed, No preschool.", "operating_code": "1", "org": "St. John  Neumann Catholic School"}
@@ -81,10 +80,8 @@
 {"report_id": "78126", "effective_date": "2025-12-04 07:33:59", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "The Colorado Springs School"}
 {"report_id": "78128", "effective_date": "2025-12-03 20:40:08", "category": "Churches/Synagogues", "detail": "2 Hours Late. Both campuses will open at 11. There will be no morning activities.", "operating_code": "5", "org": "Cross Fellowship Church"}
 {"report_id": "78130", "effective_date": "2025-12-03 21:05:29", "category": "Organizations", "detail": "Campus Delay Start 10:00 am: Morning Remote Work. Essential Onsite Staff Coordinated with Leadership.", "operating_code": "0", "org": "Focus on the Family"}
-{"report_id": "78131", "effective_date": "2025-12-03 21:12:16", "category": "Private & Charter Schools", "detail": "Full Day Opening at 8:30 AM/Part Day Canceled", "operating_code": "0", "org": "Family of Christ"}
 {"report_id": "78132", "effective_date": "2025-12-03 21:43:55", "category": "Private & Charter Schools", "detail": "2 Hours Late. Opening at 8:30am.", "operating_code": "5", "org": "Little Sprouts Learning Center"}
 {"report_id": "78134", "effective_date": "2025-12-03 22:03:39", "category": "Colleges & Universities", "detail": "2 Hours Late.", "operating_code": "5", "org": "Pima Medical Institute"}
-{"report_id": "78136", "effective_date": "2025-12-04 05:02:18", "category": "Organizations", "detail": "2 Hours Late.", "operating_code": "5", "org": "Garden of the Gods Visitor &amp; Nature Center"}
 {"report_id": "78137", "effective_date": "2025-12-04 05:11:45", "category": "Medical", "detail": "Opening at 10 am. Health Center at Divide", "operating_code": "3", "org": "Peak Vista Community Health Centers"}
 {"report_id": "78138", "effective_date": "2025-12-04 05:22:40", "category": "School Districts", "detail": "2 Hours Late.", "operating_code": "5", "org": "Primero RE-2 School District"}
 {"report_id": "78139", "effective_date": "2025-12-04 05:47:32", "category": "School Districts", "detail": "2 Hours Late.", "operating_code": "5", "org": "Manzanola School"}
