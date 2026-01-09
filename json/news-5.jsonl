@@ -16,7 +16,6 @@
 {"report_id": "78557", "effective_date": "2026-01-09 06:16:31", "category": "Military Bases", "detail": "Peterson, Schriever and Cheyenne Mountain mission essential only", "operating_code": "0", "org": "Peterson Space Force Base"}
 {"report_id": "78558", "effective_date": "2026-01-08 19:52:44", "category": "Businesses", "detail": "Closed.", "operating_code": "1", "org": "Fountain Valley Senior Center"}
 {"report_id": "78559", "effective_date": "2026-01-09 03:32:14", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Lewis-Palmer Dist. 38"}
-{"report_id": "78560", "effective_date": "2026-01-08 20:29:15", "category": "Private & Charter Schools", "detail": "Closed. Asynchronous Day", "operating_code": "1", "org": "St. Mary's High School"}
 {"report_id": "78561", "effective_date": "2026-01-09 07:29:31", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Compassion International"}
 {"report_id": "78562", "effective_date": "2026-01-08 20:24:37", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "AcademyACL"}
 {"report_id": "78563", "effective_date": "2026-01-08 20:24:51", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "CEC Colorado Springs"}
@@ -51,7 +50,6 @@
 {"report_id": "78594", "effective_date": "2026-01-08 21:13:59", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Atlas Schools"}
 {"report_id": "78595", "effective_date": "2026-01-09 05:24:02", "category": "Private & Charter Schools", "detail": "Closed. St. Paul Catholic School is closed today.", "operating_code": "1", "org": "St. Paul Catholic School"}
 {"report_id": "78596", "effective_date": "2026-01-09 06:23:15", "category": "Cities & Counties", "detail": "Offices are closed today. Non-essential staff will be working remotely.", "operating_code": "0", "org": "Colorado Springs Housing Authority"}
-{"report_id": "78597", "effective_date": "2026-01-08 21:25:23", "category": "Churches/Synagogues", "detail": "School Closed", "operating_code": "0", "org": "Holy Cross Lutheran Church and School"}
 {"report_id": "78600", "effective_date": "2026-01-08 21:43:16", "category": "Medical", "detail": "Closed but operating remotely. All Purple Mountain Recovery Offices in Pueblo, Colorado Springs, and Canon will be closed. Appointments will be switched to telehealth.", "operating_code": "1", "org": "Purple Mountain Recovery"}
 {"report_id": "78601", "effective_date": "2026-01-08 22:01:22", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "PPUW Family Success Center"}
 {"report_id": "78602", "effective_date": "2026-01-08 22:03:05", "category": "Colleges & Universities", "detail": "Urgent UCCS Weather Closure: UCCS is CLOSED on Friday, 1/9/26. All offices are closed. Classes, meetings, and activities are canceled. Visit alerts.uccs.edu for info.", "operating_code": "0", "org": "University of Colorado Colorado Springs"}
@@ -72,7 +70,6 @@
 {"report_id": "78629", "effective_date": "2026-01-09 06:02:00", "category": "Private & Charter Schools", "detail": "Delayed Start for students scheduled to come in and for staff", "operating_code": "0", "org": "Connect Charter School"}
 {"report_id": "78630", "effective_date": "2026-01-09 06:44:16", "category": "Colleges & Universities", "detail": "Closed. Colorado Springs and Denver South Campuses", "operating_code": "1", "org": "Colorado Technical University"}
 {"report_id": "78631", "effective_date": "2026-01-09 07:30:19", "category": "School Districts", "detail": "Closed. Updated at 7:30am.  All afterschool activities canceled.", "operating_code": "1", "org": "Big Sandy SD"}
-{"report_id": "78632", "effective_date": "2026-01-09 06:09:08", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Foundation for Successful Living"}
 {"report_id": "78633", "effective_date": "2026-01-09 06:11:35", "category": "Organizations", "detail": "Closed, No activity bus runs. no transportation services", "operating_code": "1", "org": "Envida"}
 {"report_id": "78634", "effective_date": "2026-01-09 06:32:57", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Edison 54JT"}
 {"report_id": "78637", "effective_date": "2026-01-09 06:33:33", "category": "Churches/Synagogues", "detail": "Closed. Includes COSCityHub and CityBrew", "operating_code": "1", "org": "Discovery Church Colorado"}
