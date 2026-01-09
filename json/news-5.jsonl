@@ -66,12 +66,12 @@
 {"report_id": "78608", "effective_date": "2026-01-09 04:51:13", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Hope Montessori Academy - Stetson Hills"}
 {"report_id": "78610", "effective_date": "2026-01-09 04:57:24", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "The Colorado Springs School"}
 {"report_id": "78611", "effective_date": "2026-01-09 04:58:09", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Hope Montessori Academy - Monument"}
-{"report_id": "78612", "effective_date": "2026-01-09 05:00:07", "category": "Military Bases", "detail": "4 hour delay, non-mission essential personnel, regardless of duty hours, depart their residence 4 hours after their normal departure time.", "operating_code": "0", "org": "US Air Force Academy"}
+{"report_id": "78612", "effective_date": "2026-01-09 10:35:52", "category": "Military Bases", "detail": "Closed. Only mission-essential and Emergency Service personnel report", "operating_code": "1", "org": "US Air Force Academy"}
 {"report_id": "78613", "effective_date": "2026-01-09 05:03:36", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Hope Montessori Academy - Falcon"}
 {"report_id": "78615", "effective_date": "2026-01-09 05:10:48", "category": "Organizations", "detail": "3 Hours Late.", "operating_code": "3", "org": "Special Kids Special Families"}
 {"report_id": "78616", "effective_date": "2026-01-09 08:03:55", "category": "Medical", "detail": "Closed. Locations in Colorado Springs and Divide Only", "operating_code": "1", "org": "Peak Vista Community Health Centers"}
 {"report_id": "78617", "effective_date": "2026-01-09 07:42:33", "category": "Cities & Counties", "detail": "All offices closed.", "operating_code": "1", "org": "Teller County Government"}
-{"report_id": "78618", "effective_date": "2026-01-09 05:17:14", "category": "Organizations", "detail": "Opening at 11 am.", "operating_code": "3", "org": "Garden of the Gods Visitor &amp; Nature Center"}
+{"report_id": "78618", "effective_date": "2026-01-09 10:30:03", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Garden of the Gods Visitor &amp; Nature Center"}
 {"report_id": "78619", "effective_date": "2026-01-09 05:17:36", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Silver Key"}
 {"report_id": "78620", "effective_date": "2026-01-09 05:19:37", "category": "Private & Charter Schools", "detail": "2 Hours Late. 2 hour delay, opening at 8:30 AM", "operating_code": "5", "org": "Little Sprouts Learning Center"}
 {"report_id": "78621", "effective_date": "2026-01-09 05:23:43", "category": "Colleges & Universities", "detail": "AM: Limited operations. PM: Fully operational. Children's Center closed.", "operating_code": "0", "org": "Colorado College"}
@@ -97,3 +97,4 @@
 {"report_id": "78647", "effective_date": "2026-01-09 08:50:59", "category": "Businesses", "detail": "Closed.", "operating_code": "1", "org": "Wee Care Pediatrics"}
 {"report_id": "78648", "effective_date": "2026-01-09 08:53:57", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Gods Pantry Ministry"}
 {"report_id": "78649", "effective_date": "2026-01-09 09:00:28", "category": "Military Bases", "detail": "Only&amp;nbsp;mission-essential and Emergency Services personnel report", "operating_code": "0", "org": "Fort Carson"}
+{"report_id": "78650", "effective_date": "2026-01-09 10:55:53", "category": "Businesses", "detail": "Closed for in-person instruction. Transition to remote learning..", "operating_code": "1", "org": "Silversound Guitar"}
