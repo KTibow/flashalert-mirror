@@ -43,8 +43,8 @@
 {"report_id": "78580", "effective_date": "2026-01-08 20:57:04", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Hanover 28"}
 {"report_id": "78581", "effective_date": "2026-01-08 20:59:34", "category": "Private & Charter Schools", "detail": "Closed, No preschool. Prodigy Childcare is Closed.", "operating_code": "1", "org": "New Summit Charter Academy"}
 {"report_id": "78582", "effective_date": "2026-01-09 04:18:51", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Manitou Springs SD 14"}
-{"report_id": "78583", "effective_date": "2026-01-08 21:02:46", "category": "Medical", "detail": "Closed. - All Services TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - South Office"}
-{"report_id": "78584", "effective_date": "2026-01-08 21:04:10", "category": "Medical", "detail": "Closed. - All Services TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - North Office"}
+{"report_id": "78583", "effective_date": "2026-01-09 08:19:38", "category": "Medical", "detail": "Closed for in-person instruction. Transition to remote learning.. - All Services TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - South Office"}
+{"report_id": "78584", "effective_date": "2026-01-09 08:16:43", "category": "Medical", "detail": "Closed for in-person instruction. Transition to remote learning.. - All Services TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - North Office"}
 {"report_id": "78585", "effective_date": "2026-01-09 07:32:48", "category": "Organizations", "detail": "All Pikes Peak Library District locations are closed on Fri., Jan. 9.", "operating_code": "0", "org": "PPLD"}
 {"report_id": "78586", "effective_date": "2026-01-08 21:05:26", "category": "Head Start Programs", "detail": "Closed.", "operating_code": "1", "org": "CPCD Head Start"}
 {"report_id": "78587", "effective_date": "2026-01-09 07:55:48", "category": "Private & Charter Schools", "detail": "Full Day Child Care Opening at 10 AM/Part Day Classes Canceled", "operating_code": "0", "org": "Family of Christ"}
@@ -73,7 +73,7 @@
 {"report_id": "78613", "effective_date": "2026-01-09 05:03:36", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Hope Montessori Academy - Falcon"}
 {"report_id": "78614", "effective_date": "2026-01-09 05:09:52", "category": "Organizations", "detail": "2 Hours Late.", "operating_code": "5", "org": "Building Blocks-Belmont"}
 {"report_id": "78615", "effective_date": "2026-01-09 05:10:48", "category": "Organizations", "detail": "3 Hours Late.", "operating_code": "3", "org": "Special Kids Special Families"}
-{"report_id": "78616", "effective_date": "2026-01-09 05:15:56", "category": "Medical", "detail": "Opening at 10 am. Locations in Colorado Springs and Divide Only", "operating_code": "3", "org": "Peak Vista Community Health Centers"}
+{"report_id": "78616", "effective_date": "2026-01-09 08:03:55", "category": "Medical", "detail": "Closed. Locations in Colorado Springs and Divide Only", "operating_code": "1", "org": "Peak Vista Community Health Centers"}
 {"report_id": "78617", "effective_date": "2026-01-09 07:42:33", "category": "Cities & Counties", "detail": "All offices closed.", "operating_code": "1", "org": "Teller County Government"}
 {"report_id": "78618", "effective_date": "2026-01-09 05:17:14", "category": "Organizations", "detail": "Opening at 11 am.", "operating_code": "3", "org": "Garden of the Gods Visitor &amp; Nature Center"}
 {"report_id": "78619", "effective_date": "2026-01-09 05:17:36", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Silver Key"}
@@ -99,3 +99,7 @@
 {"report_id": "78641", "effective_date": "2026-01-09 07:12:49", "category": "Organizations", "detail": "2 Hours Late.", "operating_code": "5", "org": "Colorado Health Network"}
 {"report_id": "78642", "effective_date": "2026-01-09 07:53:40", "category": "Businesses", "detail": "Closed.", "operating_code": "1", "org": "A Turning Point of Colorado Springs"}
 {"report_id": "78643", "effective_date": "2026-01-09 07:58:45", "category": "Cities & Counties", "detail": "Closed.", "operating_code": "1", "org": "Fountain Housing Authority"}
+{"report_id": "78644", "effective_date": "2026-01-09 08:05:46", "category": "Organizations", "detail": "2 Hours Late. Essential Personnell report.  Zoo School 2 hour delay.", "operating_code": "5", "org": "Pueblo Zoo"}
+{"report_id": "78646", "effective_date": "2026-01-09 08:31:08", "category": "School Districts", "detail": "Aft/eve activities canceled. All school scheduled activities canceled", "operating_code": "2", "org": "Pueblo D60"}
+{"report_id": "78647", "effective_date": "2026-01-09 08:50:59", "category": "Businesses", "detail": "Closed.", "operating_code": "1", "org": "Wee Care Pediatrics"}
+{"report_id": "78648", "effective_date": "2026-01-09 08:53:57", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "Gods Pantry Ministry"}
