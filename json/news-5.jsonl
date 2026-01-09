@@ -42,7 +42,7 @@
 {"report_id": "78579", "effective_date": "2026-01-08 20:56:31", "category": "Private & Charter Schools", "detail": "Closed. OLWA also closed", "operating_code": "1", "org": "Corpus Christi Catholic Academy"}
 {"report_id": "78580", "effective_date": "2026-01-08 20:57:04", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Hanover 28"}
 {"report_id": "78581", "effective_date": "2026-01-08 20:59:34", "category": "Private & Charter Schools", "detail": "Closed, No preschool. Prodigy Childcare is Closed.", "operating_code": "1", "org": "New Summit Charter Academy"}
-{"report_id": "78582", "effective_date": "2026-01-08 21:00:47", "category": "School Districts", "detail": "2 Hours Late.", "operating_code": "5", "org": "Manitou Springs SD 14"}
+{"report_id": "78582", "effective_date": "2026-01-09 04:18:51", "category": "School Districts", "detail": "Closed.", "operating_code": "1", "org": "Manitou Springs SD 14"}
 {"report_id": "78583", "effective_date": "2026-01-08 21:02:46", "category": "Medical", "detail": "Closed. - All Services TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - South Office"}
 {"report_id": "78584", "effective_date": "2026-01-08 21:04:10", "category": "Medical", "detail": "Closed. - All Services TELEHEALTH", "operating_code": "1", "org": "Whole Kids Co. - North Office"}
 {"report_id": "78585", "effective_date": "2026-01-08 21:04:28", "category": "Organizations", "detail": "All Pikes Peak Library District locations will open at 11 a.m. tomorrow, Friday, Jan. 9.", "operating_code": "0", "org": "PPLD"}
@@ -61,3 +61,8 @@
 {"report_id": "78601", "effective_date": "2026-01-08 22:01:22", "category": "Organizations", "detail": "Closed.", "operating_code": "1", "org": "PPUW Family Success Center"}
 {"report_id": "78602", "effective_date": "2026-01-08 22:03:05", "category": "Colleges & Universities", "detail": "Urgent UCCS Weather Closure: UCCS is CLOSED on Friday, 1/9/26. All offices are closed. Classes, meetings, and activities are canceled. Visit alerts.uccs.edu for info.", "operating_code": "0", "org": "University of Colorado Colorado Springs"}
 {"report_id": "78603", "effective_date": "2026-01-08 22:10:36", "category": "Private & Charter Schools", "detail": "2 Hours Late.", "operating_code": "5", "org": "The McClelland School"}
+{"report_id": "78604", "effective_date": "2026-01-09 04:39:46", "category": "Organizations", "detail": "Remote Work Day. Essential on site staff coordinate with supervisor.", "operating_code": "0", "org": "Focus on the Family"}
+{"report_id": "78605", "effective_date": "2026-01-09 04:44:36", "category": "Private & Charter Schools", "detail": "Closed. Friday January 9th", "operating_code": "1", "org": "Greenshade Schools"}
+{"report_id": "78606", "effective_date": "2026-01-09 04:50:08", "category": "Organizations", "detail": "Opening at 10 am.", "operating_code": "3", "org": "Center Toward Self Reliance"}
+{"report_id": "78607", "effective_date": "2026-01-09 04:51:13", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Hope Montessori Academy - Chuckwagon"}
+{"report_id": "78608", "effective_date": "2026-01-09 04:51:13", "category": "Private & Charter Schools", "detail": "Closed.", "operating_code": "1", "org": "Hope Montessori Academy - Stetson Hills"}
